@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\bin\Debug\net8.0\dom aukcyjny server.exe
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\bin\Debug\net8.0\dom aukcyjny server.deps.json
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\bin\Debug\net8.0\dom aukcyjny server.runtimeconfig.json
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\bin\Debug\net8.0\dom aukcyjny server.dll
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\bin\Debug\net8.0\dom aukcyjny server.pdb
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\dom aukcyjny server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\dom aukcyjny server.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\dom aukcyjny server.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\dom aukcyjny server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\dom aukcyjny server.dll
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\refint\dom aukcyjny server.dll
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\dom aukcyjny server.pdb
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\dom aukcyjny server.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\dom aukcyjny server\obj\Debug\net8.0\ref\dom aukcyjny server.dll
